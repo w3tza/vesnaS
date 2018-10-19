@@ -3,4 +3,6 @@ body {
     color: white;
     font size: 1em;
     font-family: "Times New Roman", Times New Roman;}
-    h1, h2, h3 {font-family:"Verdana", Verdana;}
+    h1, h2, h3 {
+        font size: 1em;
+        font-family:"Verdana", Verdana;}
